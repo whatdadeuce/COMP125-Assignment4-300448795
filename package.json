@@ -1,0 +1,23 @@
+{
+  "name": "comp125-Assignment4-300448795",
+  "version": "1.0.0",
+  "description": "## Javascript Banner Ad",
+  "main": "index.js",
+  "dependencies": {
+    "uglify-js2": "^2.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatdadeuce/COMP125-Assignment4-300448795.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatdadeuce/COMP125-Assignment4-300448795/issues"
+  },
+  "homepage": "https://github.com/whatdadeuce/COMP125-Assignment4-300448795#readme"
+}
